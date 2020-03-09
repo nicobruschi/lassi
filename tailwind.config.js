@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'monserrat': ['Montserrat', 'sans-serif'],
+        'barlow': ['Barlow Condensed', 'sans-serif'],
       },
     }
   },

@@ -23,7 +23,7 @@ export default {
       { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png?v=00Bzlg5wNw"},
       { rel: "manifest", href: "/site.webmanifest?v=00Bzlg5wNw" },
       { rel: "mask-icon", href: "/safari-pinned-tab.svg?v=00Bzlg5wNw", color: "#1a202c" },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap' },
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Barlow+Condensed:400,700&display=swap' },
     ]
   },
 
