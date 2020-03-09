@@ -69,7 +69,7 @@ export default {
   ** or https://matteogabriele.gitbooks.io/vue-analytics/content/
   */
   googleAnalytics: {
-    id: 'UA-147161629-1',
+    id: 'UA-160059369-1',
   },
   /*
   ** Build configuration
